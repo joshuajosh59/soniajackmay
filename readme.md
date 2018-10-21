@@ -11,4 +11,4 @@ This website shows my Skills, Projects, Education Details.
 
 
 # Developer
-##### [Sonia Jackmay](https://github.com/soniajackmay)
+##### [Joshua Josh](https://github.com/joshuajosh59)
